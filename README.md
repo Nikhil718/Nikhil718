@@ -14,21 +14,27 @@
 <a href="https://www.instagram.com/nikhilnaik718/">
   <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+<a href="#">
 <img align="left" alt="Nikhil's | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 
 <br />
 
+
+
 - 👋 Hi, I am Nikhil R Naik<br>
 - 🎓 Pre-final year undergrad at [DSCE][college]<br>
-- 💻 Interested in  web development and graphic design.<br>
-- 🌱  I'm currently Learning MEARN stack.<br>
+- 💻 Interested in  Web development and Android development<br>
+- 🌱 I'm currently Learning MEARN stack.<br>
+- 🤝 I'm ready to collaborate with other web developers</br>
 - 💬 Ask me about anything, I am happy to help
 
 
 **Languages and Tools:**  
 
+
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU"></code>
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvRFiR4jhEvswMt0ytByOKzNhjeZ_h4VN-Tw&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&usqp=CAU"></code>
