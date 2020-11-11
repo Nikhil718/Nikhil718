@@ -14,7 +14,8 @@
 <a href="https://www.instagram.com/nikhilnaik718/">
   <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-[<img align="left" alt="ajaygalagali | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] &nbsp;&nbsp;
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+<img align="left" alt="Nikhil's | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
 
 <br />
