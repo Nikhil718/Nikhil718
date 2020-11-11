@@ -17,7 +17,6 @@
 [<img align="left" alt="ajaygalagali | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] &nbsp;&nbsp;
 
 
-
 <br />
 
 - 👋 Hi, I am Nikhil R Naik<br>
