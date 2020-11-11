@@ -2,7 +2,6 @@
 <a href="#">
   <img align="left" alt="Nikhil's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-[<img align="left" alt="ajaygalagali | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] &nbsp;&nbsp;
 <a href="https://twitter.com/NikhilRNaik2">
   <img align="left" alt="Nikhil R Naik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,6 +14,7 @@
 <a href="https://www.instagram.com/nikhilnaik718/">
   <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+[<img align="left" alt="ajaygalagali | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail] &nbsp;&nbsp;
 
 
 
