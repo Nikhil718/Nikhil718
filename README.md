@@ -21,11 +21,10 @@
 
 
     
-**Personal :**
+## NIKHIL R NAIK ##
 
 
-- 👋 Hi, I am Nikhil R Naik<br>
-- 🎓 Pre-final year undergrad at DSCE Bangalore<br>
+- 🎓 Pre-final year undergrad at [DSCE][college]<br>
 - 💻 Interested in  Web development and Android development<br>
 - 🌱 I'm currently Learning MEARN stack.<br>
 - 🤝 I'm ready to collaborate with other web developers</br>
