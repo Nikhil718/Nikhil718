@@ -18,11 +18,6 @@
 <img align="left" alt="Nikhil's | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
-
-
-
-
 <br />
 
 
@@ -39,7 +34,7 @@
 **Languages and Tools:**  
 
 
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU"></code>
+<code><img height="26" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEbyqJR-426v72Ejr87Vf_h2Wqzg5LYmX69w&usqp=CAU"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvRFiR4jhEvswMt0ytByOKzNhjeZ_h4VN-Tw&usqp=CAU"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
