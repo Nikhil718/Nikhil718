@@ -24,7 +24,7 @@
 
 
 
-- 👋 Hi, I am Nikhil R Naik<br>
+- 👋 Hi, I am [Nikhil R Naik]<br>
 - 🎓 Pre-final year undergrad at [DSCE][college]<br>
 - 💻 Interested in  Web development and Android development<br>
 - 🌱 I'm currently Learning MEARN stack.<br>
