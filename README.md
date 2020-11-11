@@ -21,7 +21,7 @@
 
 
     
-
+**Personal :**
 
 
 - 👋 Hi, I am Nikhil R Naik<br>
