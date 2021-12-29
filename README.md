@@ -24,10 +24,10 @@
 ## NIKHIL R NAIK ##
 
 
-- 🎓 Pre-final year undergrad at [DSCE][college]<br>
+- 🎓 Final year undergrad at [DSCE][college]<br>
 - 💻 Interested in  Web development and Android development.<br>
 - 🌱 I'm currently Learning MEARN stack.<br>
-- 🤝 I'm ready to collaborate with web developers.</br>
+
 
 
 
