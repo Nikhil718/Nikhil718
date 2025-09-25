@@ -45,10 +45,13 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&usqp=CAU"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAYKee_nKZV6yLlj6Hvd6LZqn3VFfLvRnZYA&usqp=CAU"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"></code>
+
 
 <br />
 <img align="left" alt="Nikhil718's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nikhil718&show_icons=true&hide_border=true" />
