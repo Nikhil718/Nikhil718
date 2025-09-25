@@ -48,7 +48,6 @@
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQIx6VZfS41hOuMxd_WU1Uno_ds_ofaqCX4qg&usqp=CAU"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/47/Csharp_Logo.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSAYKee_nKZV6yLlj6Hvd6LZqn3VFfLvRnZYA&usqp=CAU"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
