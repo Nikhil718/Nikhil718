@@ -11,9 +11,6 @@
 <a href="#">
   <img align="left" alt="Nikhil's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/nikhilnaik718/">
-  <img align="left" alt="Nikhil's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="#">
 <img align="left" alt="Nikhil's | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a><br>
