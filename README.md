@@ -24,7 +24,7 @@
 ## NIKHIL R NAIK ##
 
 
---💻 Software Developer with 2.5+ years of experience building web and backend applications<br>
+--💻 Software Developer with 3.5+ years of experience building web and backend applications<br>
 --🌱 Skilled in .NET Core, React, SQL, and exploring modern full-stack technologies<br>
 --🚀 Passionate about writing clean, efficient code and delivering impactful solutions<br>
 --🤖 Continuously learning and experimenting to level up my development skills<br>
